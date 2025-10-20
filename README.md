@@ -16,4 +16,6 @@ The data include:
 - `coach_price`: the average price paid for a coach ticket
 - `firstclass_price`: the average price paid for first-class seats
 - `hours`: how many hours the flight took
-- `redeye`: was this flight a redeye (overnight)?
+- `redeye`: was this flight a redeye (overnight)
+
+How can we improve the arline?
